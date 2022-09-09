@@ -68,4 +68,3 @@ group :development do
 end
 
 gem "hirb"
-#PRACTICA2
